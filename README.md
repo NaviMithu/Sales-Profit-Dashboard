@@ -36,4 +36,7 @@ Identified high-performing product categories and regions.
 
 Observed seasonal trends in sales and profit growth.
 
+Dashboard Preview:
+ Sales-Profit-Dashboard/Screenshot.png
+
 Discovered areas requiring cost optimization for higher profit margins.
